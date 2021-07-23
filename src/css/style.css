@@ -154,3 +154,35 @@
 .social_images{
     display: flex;
 }
+
+/* Services */
+.service_collection_s1{
+    display: flex;
+    max-width: 82%;
+    margin:0 auto;
+    justify-content: space-between;
+    margin-top: 25px;
+    flex-wrap: wrap;
+
+}
+
+
+
+/* contact */
+
+.contact{
+    margin-top: 15px;
+}
+.contact h1{
+    text-align: center;
+     font-family: 'Niconne', cursive;
+     font-size: 55px;
+     color: teal;
+}
+.contact p{
+    text-align: center;
+    max-width: 60%;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: sans-serif;
+}
